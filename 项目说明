@@ -1,0 +1,2 @@
+database management
+使用方法：打好war包后，直接放到已有项目tomcat的webapp目录下即可，数据源配置在src.properties里
